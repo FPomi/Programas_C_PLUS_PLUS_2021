@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1625080446 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\columna.cpp
+	"Columna.h"
+
+1625025382 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\columna.h
+	"Lista.h"
+	<iostream>
+
+1624552636 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\lista.h
+	"Nodo.h"
+
+1624552636 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\nodo.h
+
+1625080446 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\espacio.cpp
+	"Espacio.h"
+
+1624552636 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\espacio.h
+	"Plano.h"
+
+1624552636 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\plano.h
+	<iostream>
+	"Lista.h"
+	"Columna.h"
+
+1625117015 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\juego.cpp
+	"Juego.h"
+	"Constantes.h"
+
+1625116174 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\juego.h
+	"Tablero.h"
+	"Jugadores.h"
+
+1624552636 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\tablero.h
+	"Espacio.h"
+
+1625114102 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\jugadores.h
+	"Jugador.h"
+	"Lista.h"
+
+1625115738 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\jugador.h
+	<iostream>
+
+1625114102 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\constantes.h
+	<string>
+
+1625115726 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\jugador.cpp
+	"Jugador.h"
+	"Constantes.h"
+
+1625116494 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\jugadores.cpp
+	"Jugadores.h"
+	"Constantes.h"
+
+1625116224 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\main.cpp
+	<iostream>
+	"Juego.h"
+	"Constantes.h"
+	"Reglas.h"
+
+1625066060 d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\reglas.h
+	"Juego.h"
+
+1625080446 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\plano.cpp
+	"Plano.h"
+
+1625081810 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\reglas.cpp
+	<iostream>
+	<string>
+	"Juego.h"
+	"Reglas.h"
+	"Constantes.h"
+
+1625081810 source:d:\franco\facultad\algoritmos\programas_c++_2021\29-06_tp2\tp2_4_en_linea - v4\tablero.cpp
+	"Tablero.h"
+	"Constantes.h"
+
